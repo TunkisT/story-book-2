@@ -12,7 +12,7 @@ function Statistic({ title, metric }) {
 }
 
 Statistic.propTypes = {
-  title: PropTypes.string.isRequired,
+  title: PropTypes.node.isRequired,
   metric: PropTypes.node.isRequired,
 };
 

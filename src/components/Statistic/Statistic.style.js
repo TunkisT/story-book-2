@@ -8,6 +8,7 @@ export const StatisticDiv = styled.div`
   text-align: center;
   width: 14rem;
   color: grey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 `;
 export const StatisticTitle = styled.h3`
   text-transform: uppercase;

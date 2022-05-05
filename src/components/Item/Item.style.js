@@ -11,6 +11,7 @@ export const Item = styled.div`
   justify-content: space-between;
   overflow: hidden;
   max-width: 40rem;
+  margin-bottom: 0.5rem;
 `;
 export const Image = styled.img`
   width: 20%;
